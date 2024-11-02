@@ -1,0 +1,10 @@
+.main_div
+{
+  display: flex;
+  justify-content: center;
+}
+
+.header_footer_main
+{
+  width: 100%;
+}

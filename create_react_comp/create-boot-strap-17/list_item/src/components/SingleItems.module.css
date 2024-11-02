@@ -1,0 +1,11 @@
+.list-color
+{
+  color: red;
+  font-size: 16px;
+  font-weight: 600;
+}
+.button
+{
+  float: right;
+  border-radius: 10px;
+}
